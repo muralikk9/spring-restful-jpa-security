@@ -1,7 +1,7 @@
 package com.spring.restful.service;
 
 /**
- * @author BytesTree
+ * @author Murali Kodavati
  */
 import java.io.Serializable;
 import java.util.List;

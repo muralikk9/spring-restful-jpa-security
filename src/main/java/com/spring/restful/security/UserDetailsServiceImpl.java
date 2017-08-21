@@ -14,7 +14,7 @@ import com.spring.restful.model.User;
 import com.spring.restful.repository.UserRepository;
 
 /**
- * Created by stephan on 20.03.16.
+ * @author Murali.Kodavati
  */
 @Service
 public class UserDetailsServiceImpl implements UserDetailsService {

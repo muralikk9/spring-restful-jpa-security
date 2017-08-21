@@ -4,7 +4,7 @@ import com.spring.restful.model.Employee;
 
 /**
  * 
- * @author BytesTree
+ * @author Murali Kodavati
  *
  */
 public interface EmployeeService extends CRUDService<Employee> {
